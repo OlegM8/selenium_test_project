@@ -4,7 +4,7 @@ from .locators import ProductPageLocators
 
 class ProductPage(BasePage):
 
-    def add_book_to_chart(self):
+    def add_book_to_basket(self):
         add_book_button = self.browser.find_element(*ProductPageLocators.ADD_TO_BASKET)
         add_book_button.click()
 
