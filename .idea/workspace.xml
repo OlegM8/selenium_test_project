@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38274afd-f626-4f28-9e2d-4d9cd677ab68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_product_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_main_page.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_main_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="334">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -30,22 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/login_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/base_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+            <state relative-caret-position="217">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
               <folding>
                 <element signature="e#0#61#0" expanded="true" />
               </folding>
@@ -56,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/product_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+            <state relative-caret-position="240">
+              <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="79" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -65,13 +50,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_product_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+            <state relative-caret-position="296">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="85" />
               <folding>
                 <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/basket_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/locators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="360">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -112,12 +109,13 @@
       <list>
         <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/pages/login_page.py" />
-        <option value="$PROJECT_DIR$/test_main_page.py" />
         <option value="$PROJECT_DIR$/pages/product_page.py" />
-        <option value="$PROJECT_DIR$/pages/base_page.py" />
-        <option value="$PROJECT_DIR$/pages/locators.py" />
         <option value="$PROJECT_DIR$/pages/main_page.py" />
         <option value="$PROJECT_DIR$/test_product_page.py" />
+        <option value="$PROJECT_DIR$/pages/base_page.py" />
+        <option value="$PROJECT_DIR$/pages/locators.py" />
+        <option value="$PROJECT_DIR$/pages/basket_page.py" />
+        <option value="$PROJECT_DIR$/test_main_page.py" />
       </list>
     </option>
   </component>
@@ -132,7 +130,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
+    <option name="x" value="90" />
     <option name="y" value="34" />
     <option name="width" value="1341" />
     <option name="height" value="794" />
@@ -181,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_product_page.test_guest_can_go_to_login_page_from_product_page">
+  <component name="RunManager" selected="Python tests.pytest for test_product_page.test_guest_cant_see_product_in_basket_opened_from_product_page">
     <configuration name="pytest for test_main_page.test_guest_can_go_to_login_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="selenium_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,7 +195,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_product_page.test_guest_can_add_product_to_basket" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_main_page.test_guest_cant_see_product_in_basket_opened_from_main_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="selenium_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,7 +206,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_product_page.test_guest_can_add_product_to_basket&quot;" />
+      <option name="_new_target" value="&quot;test_main_page.test_guest_cant_see_product_in_basket_opened_from_main_page&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -227,6 +225,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_product_page.test_guest_cant_see_product_in_basket_opened_from_product_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="selenium_test_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product_page.test_guest_cant_see_product_in_basket_opened_from_product_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest for test_product_page.test_guest_should_see_login_link_on_product_page" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="selenium_test_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,28 +255,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_product_page.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="selenium_test_project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_product_page.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_product_page.test_guest_cant_see_product_in_basket_opened_from_product_page" />
+        <item itemvalue="Python tests.pytest for test_main_page.test_guest_cant_see_product_in_basket_opened_from_main_page" />
+        <item itemvalue="Python tests.pytest for test_main_page.test_guest_can_go_to_login_page" />
         <item itemvalue="Python tests.pytest for test_product_page.test_guest_can_go_to_login_page_from_product_page" />
         <item itemvalue="Python tests.pytest for test_product_page.test_guest_should_see_login_link_on_product_page" />
-        <item itemvalue="Python tests.pytest in test_product_page.py" />
-        <item itemvalue="Python tests.pytest for test_product_page.test_guest_can_add_product_to_basket" />
-        <item itemvalue="Python tests.pytest for test_main_page.test_guest_can_go_to_login_page" />
       </list>
     </recent_temporary>
   </component>
@@ -281,15 +279,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_product_page_test_guest_can_add_product_to_basket - 2019.09.13 at 14h 36m 44s.xml">
-      <configuration name="pytest for test_product_page.test_guest_can_add_product_to_basket" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_product_page_test_guest_can_add_product_to_basket - 2019.09.13 at 14h 38m 03s.xml">
-      <configuration name="pytest for test_product_page.test_guest_can_add_product_to_basket" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_product_page_test_guest_can_add_product_to_basket - 2019.09.13 at 14h 38m 54s.xml">
-      <configuration name="pytest for test_product_page.test_guest_can_add_product_to_basket" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_for_test_product_page_test_guest_can_add_product_to_basket - 2019.09.13 at 14h 39m 25s.xml">
       <configuration name="pytest for test_product_page.test_guest_can_add_product_to_basket" configurationId="tests" />
     </history-entry>
@@ -311,9 +300,18 @@
     <history-entry file="pytest_in_test_product_page_py - 2019.09.13 at 17h 03m 17s.xml">
       <configuration name="pytest in test_product_page.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_test_product_page_test_guest_should_see_login_link_on_product_page - 2019.09.16 at 13h 06m 58s.xml">
+      <configuration name="pytest for test_product_page.test_guest_should_see_login_link_on_product_page" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_product_page_test_guest_can_go_to_login_page_from_product_page - 2019.09.16 at 13h 09m 06s.xml">
+      <configuration name="pytest for test_product_page.test_guest_can_go_to_login_page_from_product_page" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_main_page_test_guest_can_go_to_login_page - 2019.09.16 at 13h 17m 35s.xml">
+      <configuration name="pytest for test_main_page.test_guest_can_go_to_login_page" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="34" width="1341" height="794" extended-state="0" />
+    <frame x="90" y="34" width="1341" height="794" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -321,7 +319,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,7 +327,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32905984" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32905984" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -346,26 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_main_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -376,20 +354,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/base_page.py">
+    <entry file="file://$PROJECT_DIR$/conftest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="53" column="24" lean-forward="true" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_product_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="85" />
           <folding>
-            <element signature="e#0#61#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/locators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="360">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/product_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="79" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -400,22 +395,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/product_page.py">
+    <entry file="file://$PROJECT_DIR$/pages/basket_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_product_page.py">
+    <entry file="file://$PROJECT_DIR$/pages/base_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        <state relative-caret-position="217">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
