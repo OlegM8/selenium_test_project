@@ -4,6 +4,6 @@ from .locators import BasketPageLocators
 
 class BasketPage(BasePage):
 
-    def get_basket_status(self):
+    def basket_should_be_empty(self):
         basket_status = self.browser.find_element(*BasketPageLocators.BASKET_STATUS).text
-        return basket_status
+        assert 'Your basket is empty.' in basket_status, "Basket is not empty!"

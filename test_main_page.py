@@ -29,6 +29,6 @@ def test_guest_cant_see_product_in_basket_opened_from_main_page(browser):
     page.open()
     page.open_basket()
     basket_page = BasketPage(browser, browser.current_url)
-    basket_status = basket_page.get_basket_status()
-    assert 'Your basket is empty.' in basket_status
+    # assert that basket is empty
+    basket_page.basket_should_be_empty()
 
